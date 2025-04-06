@@ -11,7 +11,6 @@
         "grad45rlu.png",
         "library_main.lua",
         "library_save.lua",
-        "library_theme.lua",
-        "chat_spam.lua"
+        "library_theme.lua"
     ]
 }
