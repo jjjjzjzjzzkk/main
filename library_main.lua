@@ -1284,6 +1284,7 @@ do
 
         Library:GiveSignal(InputService.InputBegan:Connect(function(Input)
             if (not Picking) then
+                        if InputService:GetFocusedTextBox() then return end
                 if KeyPicker.Mode == 'Toggle' then
                     local Key = KeyPicker.Value;
 
