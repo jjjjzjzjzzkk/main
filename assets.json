@@ -11,7 +11,14 @@
         "grad45rlu.png",
         "library_main.lua",
         "library_save.lua",
-        "library_theme.lua",
-        "gif"
+        "library_theme.lua"
+    ],
+    "gif": [
+        "1.png",
+        "2.png",
+        "3.png",
+        "...",
+        "124.png",
+        "125.png"
     ]
 }
