@@ -1,7 +1,7 @@
 
 {
   "discord": "discord.gg/3y9e9CaFqT",
-  "loader_active": true,
+  "loader_active": false,
   "version": "0.8.9",
   "main_script": true
 }
