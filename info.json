@@ -4,5 +4,5 @@
   "loader_active": true,
   "version": "1.0.3",
   "main_script": true,
-  "exter_active": false
+  "exter_active": true
 }
